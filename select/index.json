@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミッドナイト・レイン",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-09T19:25:19.074739Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Rain",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Rain_Taylor_Swift.txt"
+    }
+  ]
+}
